@@ -25,4 +25,5 @@ On using Pearson's Correlation test, it was found that many features were highly
 ⚙ Model Training:
  On training my model using several regression algorithms, the model trained with XGBoost Regressor gave best results.
    
-Web Application 💻 🌎 :
+Web Application 💻 🌎 : https://energy-intensity-prediction-ml.onrender.com
+
